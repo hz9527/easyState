@@ -1,0 +1,23 @@
+{
+  "name": "easyState",
+  "version": "0.1.0",
+  "description": "use observable state in your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hz9527/easyState.git"
+  },
+  "keywords": [],
+  "author": "hz9527",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hz9527/easyState/issues"
+  },
+  "homepage": "https://github.com/hz9527/easyState#readme",
+  "devDependencies": {
+    "rollup": "^0.52.1"
+  }
+}
